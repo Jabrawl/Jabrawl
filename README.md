@@ -8,11 +8,11 @@ Now I am fully ready to join the workforce as a Fullstack Developer, and I will 
 
 I am a very fast learner, I'm an honest, trustworthy person who will own up to mistakes, my parents taught me how to be a hard worker, and I can be funny in the right crowd :wink:
 
-### LANGUAGES:
+### Languages:
 Python, JavaScript, TypeScript, HTML, CSS, PostGreSQL
 
-### LIBRARIES & FRAMEWORKS:
+### Libraries & Frameworks:
 Flask, React
 
-### TOOLS:
+### Tools:
 Git, Github, Bootstrap
