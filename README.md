@@ -1,6 +1,6 @@
-Hello, my name is James Stibral. 
+### Hello, my name is James Stibral. 
 
-Here is what you need to know about me:
+#### Here is what you need to know about me:
 
 Throughout the past few years I have spent some time on and off messing around with coding through the likes of freecodecamp.org and other resources, but as of 2022 I finally decided to fully commit and apply to a coding bootcamp. Now I am a graduate of Coding Temple, having achieved a Software Engineering: Certificate of Completion.
 
@@ -8,11 +8,11 @@ Now I am fully ready to join the workforce as a Fullstack Developer, and I will 
 
 I am a very fast learner, I'm an honest, trustworthy person who will own up to mistakes, my parents taught me how to be a hard worker, and I can be funny in the right crowd :wink:
 
-### Languages:
+#### Languages:
 Python, JavaScript, TypeScript, HTML, CSS, PostGreSQL
 
-### Libraries & Frameworks:
+#### Libraries & Frameworks:
 Flask, React
 
-### Tools:
+#### Tools:
 Git, Github, Bootstrap
